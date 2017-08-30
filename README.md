@@ -18,6 +18,6 @@ node server.js
 ```
 - serve in on port 8080
 ```bash
-localhost:8080
+localhost:8080  or 0.0.0.0:8080
 ```
-
+you can change port number by updating in node-was.conf file
