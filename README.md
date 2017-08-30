@@ -16,5 +16,8 @@ you must have a nodejs server already installed on your local machine
 ```bash
 node server.js
 ```
-
+- serve in on port 8080
+```bash
+localhost:8080
+```
 
